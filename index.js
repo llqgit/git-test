@@ -4,4 +4,3 @@
 
 功能2
   fix bug-1
-  new bug 2
